@@ -1,0 +1,38 @@
+body {
+	height: 750px;
+    background-image: url("bgg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;	
+}
+h1 {
+	font-family: Arial Narrow;
+	font-weight:bolder;
+	
+}
+img{
+	border-radius: 50%;
+}
+.logo{
+	width:50px;
+	height:50px;
+	padding-right: 10px;
+	padding-left:10px;
+}
+ .text_container {
+	 margin-top:50px;
+	 margin-bottom :100px;
+	 margin-right:150px;
+	 margin-left:80px;
+ }
+ 
+ 
+.text {
+	font-family:Arial Narrow;
+	font-size:30px;
+	line-height:1.5;
+	text-align: justify;
+	text-justify:inter-word;
+	
+}
+	
